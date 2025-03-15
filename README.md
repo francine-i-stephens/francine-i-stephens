@@ -6,7 +6,7 @@ Previously, I have worked as a Quantitative Researcher at Mozilla, as a Research
 ******
 
 **Quick Facts**
-- 💻 I am currently re-establishing my GitHub account, because I stepped away from my account for a while and need to get back to it.
+- 💻 I am setting up my new GitHub account, because I could not recover my old one.
 - 🌱 I am learning web development to create a new portfolio. 
 - 🔭 I am interested in researching NBA data sources. 
 - 💬 Ask me about: Statistics, R, & Data Visualization.
