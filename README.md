@@ -6,10 +6,10 @@ Previously, I have worked as a Quantitative Researcher at Mozilla, as a Research
 ******
 
 **Quick Facts**
-- 💻 I am currently working as a data scientist for a multifamily real estate investment firm in Denver.
+- 💻 I am currently re-establishing my GitHub account, because I stepped away from my account for a while and need to get back to it.
 - 🌱 I am learning web development to create a new portfolio. 
-- 🔭 I defended my doctoral dissertation in August 2023. 
-- 💬 Ask me about: Statistics, R, Data Visualization,
+- 🔭 I am interested in researching NBA data sources. 
+- 💬 Ask me about: Statistics, R, & Data Visualization.
 - 😄 Pronouns: she/her
 
 <!---
